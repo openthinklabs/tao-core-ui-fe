@@ -106,11 +106,20 @@ var ckConfigurator = (function() {
             },
             {
                 name: 'insert',
-                items: ['SpecialChar', 'TaoTab', 'TaoUnTab']
+                items: ['SpecialChar', 'TaoTab', 'TaoUnTab', 'Table']
             },
             {
                 name: 'paragraph',
-                items: ['NumberedList', 'BulletedList']
+                items: [
+                    'NumberedList',
+                    'BulletedList',
+                    '-',
+                    'Blockquote',
+                    'JustifyLeft',
+                    'JustifyCenter',
+                    'JustifyRight',
+                    'JustifyBlock'
+                ]
             },
             {
                 name: 'clipboard',

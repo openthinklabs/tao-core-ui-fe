@@ -16,7 +16,7 @@
         </div>
         <div>
             <label class="form_desc" for="password">
-                {{__ "Password"}}
+                {{__ "CBT Token"}}
             </label><input type="password" name="password" id="password"{{#if disableAutocomplete}} autocomplete="off"{{/if}} aria-required="true">
             {{#if fieldMessages.password}}
                 <div class="form-error">
