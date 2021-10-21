@@ -117,8 +117,7 @@ var ckConfigurator = (function() {
                     'Blockquote',
                     'JustifyLeft',
                     'JustifyCenter',
-                    'JustifyRight',
-                    'JustifyBlock'
+                    'JustifyRight'
                 ]
             },
             {
