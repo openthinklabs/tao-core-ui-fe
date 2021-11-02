@@ -32,7 +32,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/oat-sa/tao-core-ui-fe.git"
+        "url": "https://github.com/oat-sa/tao-core-ui-fe.git"
     },
     "publishConfig": {
         "access": "public"
@@ -56,7 +56,7 @@
         "decimal.js": "10.1.1",
         "devbridge-autocomplete": "^1.2.20",
         "dompurify": "^1.0.10",
-        "eve": "git+https://github.com/adobe-webplatform/eve.git#eef80ed",
+        "eve": "https://github.com/adobe-webplatform/eve.git#eef80ed",
         "flatpickr": "4.5.7",
         "fs-extra": "^8.0.1",
         "gamp": "^0.2.1",
